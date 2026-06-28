@@ -5,7 +5,7 @@ A structured deep learning project designed to classify images into **Vehicle** 
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```text
 VEHICLE_DETECTION_SYSTEM/
@@ -45,7 +45,7 @@ VEHICLE_DETECTION_SYSTEM/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Prerequisites
 
@@ -62,7 +62,7 @@ pip install -r requirements.txt
 
 ---
 
-## 🛠️ Usage
+##  Usage
 
 ### Data Preparation
 
@@ -99,7 +99,7 @@ python src/main.py
 
 ---
 
-## 🧪 Running Tests
+##  Running Tests
 
 This project uses automated unit tests to ensure codebase stability. You can run all the tests using `pytest`:
 
